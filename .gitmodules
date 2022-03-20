@@ -20,8 +20,8 @@
 [submodule "images"]
 	path = images
 	url = git@github.com:makisgrammenos/images.git
-	branch = p2019194
+	
 [submodule "_gallery"]
 	path = _gallery
 	url = git@github.com:makisgrammenos/_gallery.git
-	branch = p2019194
+	
