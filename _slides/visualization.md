@@ -23,4 +23,6 @@ slides:
   - winamp
   - ical
   - symbolic-abstraction
+  - terra-vision
+  - oculus-rift
 ---
