@@ -19,8 +19,7 @@
 	url = https://github.com/mibook/text.git
 [submodule "_gallery"]
 	path = _gallery
-	url = https://github.com/Tsimpliarakis/_gallery
+	url = https://github.com/Kafeneio/_gallery
 [submodule "images"]
 	path = images
-	url = https://github.com/Tsimpliarakis/images
-
+	url = https://github.com/Kafeneio/images.git
