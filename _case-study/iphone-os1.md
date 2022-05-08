@@ -10,4 +10,4 @@ tags:
   - apple
 ---
 
-{% include cs-iphone.md %}
+{% include cs-iphone-os1.md %}
