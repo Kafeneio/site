@@ -10,4 +10,4 @@ tags:
   - apple
 ---
 
-{% include cs-iphone.md %}
+{% include bio-wozniak.md %}
