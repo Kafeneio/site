@@ -9,5 +9,4 @@ slides:
   - mac-os
   - microsoft-basic
   - ultimate-soundtracker
-  - pet-lander
 ---
