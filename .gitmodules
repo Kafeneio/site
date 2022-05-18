@@ -17,9 +17,9 @@
 [submodule "_includes/text"]
 	path = _includes/text
 	url = https://github.com/mibook/text.git
-[submodule "_gallery"]
-	path = _gallery
-	url = https://github.com/Kafeneio/_gallery
 [submodule "images"]
 	path = images
 	url = https://github.com/Alkissourvinos/images.git
+[submodule "_gallery"]
+	path = _gallery
+	url = https://github.com/Kafeneio/_gallery.git
