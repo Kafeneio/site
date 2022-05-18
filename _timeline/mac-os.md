@@ -6,6 +6,6 @@ caption: To MacOS ήταν ένα πρωτοποριακό λειτουργικ�
 events:
   - apple-i-computer
   - apple2
-  - apple-lisa 
-  - mac-os
+  - apple-lisa
+  - apple-macintosh
 ---
