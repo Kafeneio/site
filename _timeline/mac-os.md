@@ -8,4 +8,5 @@ events:
   - apple2
   - apple-lisa
   - apple-macintosh
+  - mac-os
 ---
